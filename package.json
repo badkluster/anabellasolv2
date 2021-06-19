@@ -1,10 +1,10 @@
 {
-  "name": " ",
+  "name": "AnabellaSol",
   "version": "0.0.1",
-  "description": "",
+  "description": "Indumentaria Femenina Seleccionada",
   "keywords": "",
   "license": "",
-  "author": "",
+  "author": "Jorge Dominguez",
   "scripts": {
     "build": "parcel build index.html",
     "dev": "parcel index.html --open",
